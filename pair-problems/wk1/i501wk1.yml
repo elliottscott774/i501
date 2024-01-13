@@ -1,0 +1,6 @@
+name: i501wk1.yml
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - ipykernel

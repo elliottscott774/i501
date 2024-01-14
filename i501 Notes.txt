@@ -1,0 +1,74 @@
+Informatics and People
+
+How should we computer with people in mind?
+
+
+Pair-problem
+
+-Create a new environment for this class
+-Create a jupyter notebook file
+	-run  code : !conda env list
+
+Week 1 Notes:
+
+What is Informatics?
+	-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

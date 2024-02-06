@@ -1,0 +1,201 @@
+rank,release,gross,theaters,total_gross,release_date,distributor,release_month,release_quarter
+1,Barbie,"$636,225,983",4337,"$636,238,421",2023-07-21,Warner Bros.,7,3
+2,The Super Mario Bros. Movie,"$574,934,330",4371,"$574,934,330",2023-04-05,Universal Pictures,4,2
+3,Spider-Man: Across the Spider-Verse,"$381,311,319",4332,"$381,311,319",2023-06-02,Columbia Pictures,6,2
+4,Guardians of the Galaxy Vol. 3,"$358,995,815",4450,"$358,995,815",2023-05-05,Walt Disney Studios Motion Pictures,5,2
+5,Oppenheimer,"$326,101,370",3761,"$328,529,295",2023-07-21,Universal Pictures,7,3
+6,The Little Mermaid,"$298,172,056",4320,"$298,172,056",2023-05-26,Walt Disney Studios Motion Pictures,5,2
+7,Avatar: The Way of Water,"$283,067,859",4340,"$684,075,767",2023-12-16,20th Century Studios,12,4
+8,Ant-Man and the Wasp: Quantumania,"$214,504,909",4345,"$214,504,909",2023-02-17,Walt Disney Studios Motion Pictures,2,1
+9,John Wick: Chapter 4,"$187,131,806",3855,"$187,131,806",2023-03-24,Lions Gate Films,3,1
+10,Sound of Freedom,"$184,177,725",3411,"$184,178,046",2023-07-04,Angel Studios,7,3
+11,Taylor Swift: The Eras Tour,"$179,817,571",3855,"$180,756,269",2023-10-13,-,10,4
+12,Indiana Jones and the Dial of Destiny,"$174,480,468",4600,"$174,480,468",2023-06-30,Walt Disney Studios Motion Pictures,6,2
+13,Mission: Impossible - Dead Reckoning Part One,"$172,135,383",4327,"$172,135,383",2023-07-12,Paramount Pictures,7,3
+14,The Hunger Games: The Ballad of Songbirds & Snakes,"$159,719,625",3776,"$166,350,594",2023-11-17,Lions Gate Films,11,4
+15,Transformers: Rise of the Beasts,"$157,066,392",3680,"$157,066,392",2023-06-09,Paramount Pictures,6,2
+16,Creed III,"$156,248,615",4007,"$156,248,615",2023-03-03,United Artists Releasing,3,1
+17,Elemental,"$154,426,697",4035,"$154,426,697",2023-06-16,Walt Disney Studios Motion Pictures,6,2
+18,Fast X,"$146,126,015",4088,"$146,126,015",2023-05-19,Universal Pictures,5,2
+19,Five Nights at Freddy's,"$137,275,620",3789,"$137,275,620",2023-10-27,Universal Pictures International (UPI),10,4
+20,Wonka,"$133,129,902",4213,"$201,121,372",2023-12-15,Warner Bros.,12,4
+21,Puss in Boots: The Last Wish,"$130,425,380",4121,"$186,090,535",2023-12-21,Universal Pictures,12,4
+22,Teenage Mutant Ninja Turtles: Mutant Mayhem,"$118,613,586",3950,"$118,613,586",2023-08-02,Paramount Pictures,8,3
+23,Scream VI,"$108,161,389",3676,"$108,161,389",2023-03-10,Paramount Pictures,3,1
+24,The Flash,"$108,133,313",4256,"$108,133,313",2023-06-16,Warner Bros.,6,2
+25,Trolls Band Together,"$96,370,205",3893,"$102,501,455",2023-11-17,Universal Pictures,11,4
+26,M3GAN,"$95,159,005",3628,"$95,159,005",2023-01-06,Universal Pictures,1,1
+27,Dungeons & Dragons: Honor Among Thieves,"$93,277,026",3856,"$93,277,026",2023-03-31,Paramount Pictures,3,1
+28,The Equalizer 3,"$92,373,751",3965,"$92,373,751",2023-09-01,Columbia Pictures,9,3
+29,The Nun II,"$86,267,073",3743,"$86,267,073",2023-09-08,Warner Bros.,9,3
+30,The Marvels,"$84,479,155",4030,"$84,500,223",2023-11-10,Walt Disney Studios Motion Pictures,11,4
+31,Meg 2: The Trench,"$82,600,317",3604,"$82,600,317",2023-08-04,Warner Bros.,8,3
+32,Insidious: The Red Door,"$82,156,962",3188,"$82,156,962",2023-07-07,Screen Gems,7,3
+33,Aquaman and the Lost Kingdom,"$76,469,713",3787,"$120,788,619",2023-12-22,Warner Bros.,12,4
+34,Blue Beetle,"$72,488,072",3871,"$72,488,072",2023-08-18,Warner Bros.,8,3
+35,Haunted Mansion,"$67,653,287",3740,"$67,653,287",2023-07-28,Walt Disney Studios Motion Pictures,7,3
+36,Killers of the Flower Moon,"$67,292,161",3786,"$67,729,778",2023-10-20,Paramount Pictures,10,4
+37,Evil Dead Rise,"$67,233,054",3417,"$67,233,054",2023-04-21,Warner Bros.,4,2
+38,The Exorcist: Believer,"$65,537,395",3684,"$65,537,395",2023-10-06,Universal Pictures,10,4
+39,PAW Patrol: The Mighty Movie,"$65,231,360",4027,"$65,231,360",2023-09-29,Paramount Pictures,9,3
+40,Cocaine Bear,"$64,670,240",3571,"$64,670,240",2023-02-24,Universal Pictures,2,1
+41,A Man Called Otto,"$64,228,358",3957,"$64,267,657",2023-12-30,Columbia Pictures,12,4
+42,Wish,"$60,609,147",3900,"$63,541,825",2023-11-22,Walt Disney Studios Motion Pictures,11,4
+43,Napoleon,"$60,512,228",3500,"$61,493,563",2023-11-22,Columbia Pictures,11,4
+44,Shazam! Fury of the Gods,"$57,638,006",4071,"$57,638,006",2023-03-17,Warner Bros.,3,1
+45,Migration,"$54,103,955",3839,"$102,069,285",2023-12-22,Universal Pictures,12,4
+46,Saw X,"$53,607,898",3262,"$53,607,898",2023-09-29,Lions Gate Films,9,3
+47,Air,"$52,460,106",3507,"$52,460,106",2023-04-05,-,4,2
+48,Jesus Revolution,"$52,102,987",2575,"$52,102,987",2023-02-24,Lions Gate Films,2,1
+49,No Hard Feelings,"$50,452,282",3208,"$50,452,282",2023-06-23,Sony Pictures Releasing,6,2
+50,Talk to Me,"$48,299,436",2379,"$48,299,436",2023-07-28,A24,7,3
+51,Godzilla Minus One,"$45,580,412",2622,"$56,418,793",2023-12-01,-,12,4
+52,Gran Turismo,"$44,428,554",3856,"$44,428,554",2023-08-25,Sony Pictures Releasing,8,3
+53,The Color Purple,"$44,047,642",3218,"$60,153,622",2023-12-25,Warner Bros.,12,4
+54,The Boogeyman,"$43,244,282",3205,"$43,244,282",2023-06-02,Walt Disney Studios Motion Pictures,6,2
+55,A Haunting in Venice,"$42,471,412",3305,"$42,471,412",2023-09-15,Walt Disney Studios Motion Pictures,9,3
+56,The Creator,"$40,774,679",3680,"$40,774,679",2023-09-29,Walt Disney Studios Motion Pictures,9,3
+57,80 for Brady,"$39,330,588",3939,"$39,330,588",2023-02-03,Paramount Pictures,2,1
+58,The Boy and the Heron,"$35,846,555",2325,"$44,506,374",2023-12-08,GKIDS,12,4
+59,Knock at the Cabin,"$35,397,980",3657,"$35,397,980",2023-02-03,Universal Pictures,2,1
+60,Renaissance: A Film by Beyoncé,"$33,223,373",2542,"$33,889,684",2023-12-01,-,12,4
+61,Missing,"$32,502,025",3025,"$32,502,025",2023-01-20,Sony Pictures Releasing,1,1
+62,Plane,"$32,111,181",3060,"$32,111,181",2023-01-13,Lions Gate Films,1,1
+63,65,"$32,062,904",3405,"$32,062,904",2023-03-10,Sony Pictures Releasing,3,1
+64,Thanksgiving,"$31,800,773",3204,"$31,908,884",2023-11-17,TriStar Pictures,11,4
+65,My Big Fat Greek Wedding 3,"$28,496,030",3678,"$28,496,030",2023-09-08,Focus Features,9,3
+66,Asteroid City,"$28,153,025",1901,"$28,153,025",2023-06-16,Focus Features,6,2
+67,Magic Mike's Last Dance,"$26,005,156",3034,"$26,005,156",2023-02-10,Warner Bros.,2,1
+68,Anyone But You,"$24,837,385",3055,"$76,281,654",2023-12-22,Columbia Pictures,12,4
+69,Strays,"$23,988,885",3232,"$23,988,885",2023-08-18,Universal Pictures,8,3
+70,The Boys in the Boat,"$21,998,472",2687,"$49,551,471",2023-12-25,-,12,4
+71,Priscilla,"$20,864,910",2361,"$20,864,910",2023-10-27,A24,10,4
+72,"Are You There God? It's Me, Margaret.","$20,372,406",3343,"$20,372,406",2023-04-28,Lions Gate Films,4,2
+73,The Pope's Exorcist,"$20,009,380",3178,"$20,009,380",2023-04-14,Screen Gems,4,2
+74,The Holdovers,"$18,208,655",1601,"$19,758,015",2023-10-27,Focus Features,10,4
+75,The Blackening,"$17,707,207",1775,"$17,707,207",2023-06-16,Lions Gate Films,6,2
+76,Book Club: The Next Chapter,"$17,581,565",3513,"$17,581,565",2023-05-12,Focus Features,5,2
+77,Pathaan,"$17,487,476",697,"$17,487,476",2023-01-25,Yash Raj Films USA Inc.,1,1
+78,Black Panther: Wakanda Forever,"$17,329,414",4396,"$453,829,060",2023-11-11,Walt Disney Studios Motion Pictures,11,4
+79,Renfield,"$17,297,895",3378,"$17,297,895",2023-04-14,Universal Pictures,4,2
+80,The Blind,"$17,265,487",1715,"$17,265,487",2023-09-28,Fathom Events,9,3
+81,The Covenant,"$16,938,039",2631,"$16,938,039",2023-04-21,Metro-Goldwyn-Mayer (MGM),4,2
+82,Expend4bles,"$16,710,153",3518,"$16,710,153",2023-09-22,Lions Gate Films,9,3
+83,Champions,"$16,397,335",3039,"$16,397,335",2023-03-10,Focus Features,3,1
+84,The Iron Claw,"$15,964,922",2794,"$34,093,605",2023-12-22,A24,12,4
+85,Ruby Gillman: Teenage Kraken,"$15,753,600",3408,"$15,753,600",2023-06-30,DreamWorks,6,2
+86,Jawan,"$15,198,530",826,"$15,198,530",2023-09-07,Yash Raj Films USA Inc.,9,3
+87,Titanic25 Year Anniversary,"$15,033,795",2464,"$15,033,795",2023-02-10,Paramount Pictures,2,1
+88,Animal,"$14,772,820",698,"$15,004,482",2023-12-01,-,12,4
+89,Dumb Money,"$13,925,356",2837,"$13,925,356",2023-09-15,Sony Pictures Releasing,9,3
+90,The Last Voyage of the Demeter,"$13,637,180",2715,"$13,637,180",2023-08-11,Universal Pictures,8,3
+91,Joy Ride,"$12,897,789",2820,"$12,897,789",2023-07-07,Lions Gate Films,7,3
+92,His Only Son,"$12,392,740",1930,"$12,392,740",2023-03-31,Angel Studios,3,1
+93,The Whale,"$12,269,350",1721,"$17,463,630",2023-12-09,A24,12,4
+94,About My Father,"$12,089,391",2464,"$12,089,391",2023-05-26,Lions Gate Films,5,2
+95,Bottoms,"$12,036,071",1265,"$12,036,071",2023-08-25,Orion Pictures,8,3
+96,The Shift,"$11,925,234",2450,"$12,113,907",2023-12-01,Angel Studios,12,4
+97,After Death,"$11,477,621",2730,"$11,478,326",2023-10-27,Angel Studios,10,4
+98,Saltburn,"$11,256,512",1566,"$11,425,829",2023-11-17,Warner Bros.,11,4
+99,Suzume,"$10,932,037",2170,"$10,932,037",2023-04-14,Crunchyroll,4,2
+100,Past Lives,"$10,923,569",906,"$10,923,569",2023-06-02,A24,6,2
+101,Ferrari,"$10,778,480",2386,"$18,419,655",2023-12-25,Neon,12,4
+102,The Machine,"$10,458,331",2409,"$10,458,331",2023-05-26,Sony Pictures Releasing,5,2
+103,Whitney Houston: I Wanna Dance with Somebody,"$10,451,167",3625,"$23,708,080",2023-12-23,TriStar Pictures,12,4
+104,Poor Things,"$10,269,036",2300,"$26,056,223",2023-12-08,Searchlight Pictures,12,4
+105,The Nightmare Before Christmas30th Anniversary Re-Release,"$10,251,956",2185,"$10,251,956",2023-10-20,Walt Disney Studios Motion Pictures,10,4
+106,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,"$10,117,806",1774,"$10,117,806",2023-03-03,Crunchyroll,3,1
+107,House Party,"$9,002,247",1400,"$9,002,247",2023-01-13,Warner Bros.,1,1
+108,Radical,"$8,636,299",534,"$8,702,731",2023-11-03,Pantelion Films,11,4
+109,Everything Everywhere All at Once,"$8,410,284",2220,"$77,191,785",2023-03-25,A24,3,1
+110,Salaar,"$8,268,997",802,"$8,929,282",2023-12-22,-,12,4
+111,Silent Night,"$7,996,185",1873,"$8,012,103",2023-12-01,Lions Gate Films,12,4
+112,Beau Is Afraid,"$7,740,323",2125,"$8,176,562",2023-04-14,A24,4,2
+113,The Hill,"$7,665,865",1703,"$7,665,865",2023-08-25,Briarcliff Entertainment,8,3
+114,Sisu,"$7,265,622",1006,"$7,265,622",2023-04-28,Lions Gate Films,4,2
+115,Star Wars: Episode VI - Return of the Jedi2023 Re-release,"$7,259,924",475,"$7,259,924",2023-04-28,-,4,2
+116,Dunki,"$7,160,815",650,"$7,460,159",2023-12-21,Yash Raj Films USA Inc.,12,4
+117,Coraline2023 Re-release (remastered),"$7,149,366",1469,"$7,149,366",2023-08-14,-,8,3
+118,Retribution,"$6,937,696",1750,"$6,937,696",2023-08-25,Roadside Attractions,8,3
+119,Journey to Bethlehem,"$6,816,475",2002,"$6,820,796",2023-11-10,Affirm Films,11,4
+120,Next Goal Wins,"$6,713,826",2240,"$6,713,826",2023-11-17,Searchlight Pictures,11,4
+121,Operation Fortune: Ruse de Guerre,"$6,496,125",2168,"$6,496,125",2023-03-03,Lions Gate Films,3,1
+122,BTS: Yet to Come in Cinemas,"$6,350,496",1210,"$8,093,270",2023-02-01,Trafalgar Releasing,2,1
+123,Babylon,"$6,268,558",3351,"$15,351,455",2023-12-23,Paramount Pictures,12,4
+124,Love Again,"$6,230,837",2703,"$6,230,837",2023-05-05,Screen Gems,5,2
+125,Dream Scenario,"$5,615,011",1578,"$5,693,190",2023-11-10,A24,11,4
+126,The Fabelmans,"$5,541,550",1962,"$17,348,945",2023-11-11,Universal Pictures,11,4
+127,The Chosen Season 3 Finale,"$5,525,069",1979,"$5,525,069",2023-02-02,Fathom Events,2,1
+128,Nefarious,"$5,433,685",933,"$5,433,685",2023-04-14,Soli Deo Gloria Releasing,4,2
+129,Big George Foreman,"$5,426,772",3054,"$5,426,772",2023-04-28,Sony Pictures Releasing,4,2
+130,Waitress: The Musical,"$5,402,148",1214,"$5,402,148",2023-12-07,Bleecker Street Media,12,4
+131,Tiger 3,"$5,365,263",779,"$5,365,263",2023-11-11,Yash Raj Films USA Inc.,11,4
+132,Women Talking,"$5,321,627",707,"$5,456,531",2023-12-23,United Artists Releasing,12,4
+133,Freelance,"$5,314,136",2057,"$5,314,136",2023-10-27,Relativity Media,10,4
+134,Infinity Pool,"$5,078,400",1835,"$5,078,400",2023-01-27,Neon,1,1
+135,Hocus Pocus30th Anniversary re-release,"$4,929,004",1430,"$4,929,004",2023-10-06,Walt Disney Studios Motion Pictures,10,4
+136,You Hurt My Feelings,"$4,830,788",912,"$4,830,788",2023-05-26,A24,5,2
+137,Kandahar,"$4,813,132",2105,"$4,813,132",2023-05-26,Open Road Films (II),5,2
+138,Golda,"$4,801,781",883,"$4,801,781",2023-08-25,Bleecker Street Media,8,3
+139,It Lives Inside,"$4,675,092",2005,"$4,675,092",2023-09-22,Neon,9,3
+140,Hypnotic,"$4,500,169",2118,"$4,500,169",2023-05-12,Ketchup Entertainment,5,2
+141,Stop Making Sense2023 Re-release,"$4,403,500",786,"$5,066,072",2023-09-22,-,9,3
+142,Marlowe,"$4,350,243",2281,"$4,350,243",2023-02-15,Open Road Films (II),2,1
+143,The Amazing Maurice,"$4,303,645",1717,"$4,303,645",2023-02-03,Viva Pictures,2,1
+144,Mummies,"$4,275,970",384,"$4,275,970",2023-02-24,Warner Bros.,2,1
+145,Theater Camp,"$4,009,945",555,"$4,009,945",2023-07-14,Searchlight Pictures,7,3
+146,Ponniyin Selvan: Part Two,"$3,813,000",-,"$3,813,000",2023-04-28,-,4,2
+147,Anatomy of a Fall,"$3,742,039",583,"$4,413,930",2023-10-13,-,10,4
+148,Left Behind: Rise of the Antichrist,"$3,649,422",1407,"$3,649,422",2023-01-26,Fathom Events,1,1
+149,The Journey: A Music Special from Andrea Bocelli,"$3,574,915",1074,"$3,574,915",2023-04-02,Fathom Events,4,2
+150,Chevalier,"$3,541,159",1281,"$3,541,159",2023-04-21,Walt Disney Studios Motion Pictures,4,2
+151,Mafia Mamma,"$3,496,761",2002,"$3,496,761",2023-04-14,Bleecker Street Media,4,2
+152,The Wandering Earth II,"$3,444,487",172,"$5,023,132",2023-01-22,Well Go USA Entertainment,1,1
+153,A Thousand and One,"$3,400,020",926,"$3,400,020",2023-03-31,Focus Features,3,1
+154,Violent Night,"$3,278,955",3723,"$50,057,405",2023-12-02,Universal Pictures,12,4
+155,What Happens Later,"$3,273,895",1492,"$3,273,895",2023-11-03,Bleecker Street Media,11,4
+156,2023 Oscar Nominated Short Films: Live Action,"$3,025,631",357,"$3,025,631",2023-02-17,ShortsTV,2,1
+157,Living,"$2,984,305",644,"$3,038,113",2023-12-23,Sony Pictures Classics,12,4
+158,Jurassic Park2023 Re-release (30th Anniversary),"$2,970,355",1224,"$2,970,355",2023-08-25,Universal Pictures,8,3
+159,The Menu,"$2,779,574",3228,"$38,501,125",2023-11-18,Searchlight Pictures,11,4
+160,Tu Jhoothi Main Makkaar,"$2,503,604",400,"$2,503,604",2023-03-08,Yash Raj Films USA Inc.,3,1
+161,Come Out in Jesus Name,"$2,500,574",1047,"$2,500,574",2023-03-13,Fathom Events,3,1
+162,The Miracle Club,"$2,377,438",677,"$2,402,780",2023-07-14,Sony Pictures Releasing,7,3
+163,A Good Person,"$2,210,465",687,"$2,210,465",2023-03-24,United Artists Releasing,3,1
+164,Moving On,"$2,136,832",794,"$2,136,832",2023-03-17,Roadside Attractions,3,1
+165,Skinamarink,"$2,052,272",809,"$2,052,272",2023-01-13,IFC Films,1,1
+166,Die Hard2023 Re-release,"$2,048,453",1355,"$2,048,453",2023-12-08,Twenty First Century Entertainment,12,4
+167,Jules,"$1,924,922",780,"$1,924,922",2023-08-11,Bleecker Street Media,8,3
+168,Somewhere in Queens,"$1,802,442",602,"$1,802,442",2023-04-21,Roadside Attractions,4,2
+169,The Marsh King's Daughter,"$1,792,905",1055,"$1,792,905",2023-11-03,Lions Gate Films,11,4
+170,Oldboy2023 Re-release,"$1,750,719",250,"$1,750,719",2023-08-16,-,8,3
+171,Winnie the Pooh: Blood and Honey,"$1,750,639",1652,"$1,750,639",2023-02-15,Fathom Events,2,1
+172,Fear,"$1,735,359",974,"$2,090,261",2023-01-27,Hidden Empire Film Group (HEFG),1,1
+173,Lost in the Stars,"$1,721,446",-,"$1,721,446",2023-07-07,CMC Pictures,7,3
+174,Creation of the Gods I: Kingdom of Storms,"$1,686,246",115,"$1,706,355",2023-09-22,Well Go USA Entertainment,9,3
+175,American Fiction,"$1,655,483",1902,"$15,013,037",2023-12-15,Metro-Goldwyn-Mayer (MGM),12,4
+176,Polite Society,"$1,595,585",927,"$1,595,585",2023-04-28,Focus Features,4,2
+177,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,"$1,588,491",1473,"$1,588,491",2023-01-20,Crunchyroll,1,1
+178,The Banshees of Inisherin,"$1,555,301",1205,"$10,582,266",2023-10-21,Searchlight Pictures,10,4
+179,The Quiet Girl,"$1,500,014",244,"$1,500,014",2023-02-24,Neon,2,1
+180,BlackBerry,"$1,476,598",449,"$1,476,597",2023-05-12,IFC Films,5,2
+181,Spirited Away2023 Re-release (Live on Stage),"$1,455,081",1046,"$1,455,081",2023-04-23,Fathom Events,4,2
+182,Dicks: The Musical,"$1,453,012",635,"$1,453,012",2023-10-06,A24,10,4
+183,Eileen,"$1,425,273",558,"$1,435,007",2023-12-01,-,12,4
+184,Maybe I Do,"$1,293,722",465,"$1,293,722",2023-01-27,Vertical Entertainment,1,1
+185,The First Slam Dunk,"$1,291,869",581,"$1,291,869",2023-07-28,GKIDS,7,3
+186,Billie Eilish Live at the O2,"$1,290,000",600,"$1,290,000",2023-01-27,Trafalgar Releasing,1,1
+187,The Big Lebowski,"$1,266,945",1235,"$18,718,818",2023-03-06,Gramercy Pictures (I),3,1
+188,Back to the Future,"$1,240,710",1550,"$211,850,472",2023-07-03,Universal Pictures,7,3
+189,Tár,"$1,193,875",1090,"$6,773,650",2023-10-07,Focus Features,10,4
+190,The Lost King,"$1,189,307",753,"$1,188,032",2023-03-24,IFC Films,3,1
+191,The Lord of the Rings: The Return of the King2023 Re-release (20th Anniversary),"$1,176,085",1107,"$1,176,085",2023-04-13,Fathom Events,4,2
+192,Camp Hideout,"$1,125,010",848,"$1,125,010",2023-09-15,Roadside Attractions,9,3
+193,Strange World,"$1,120,039",4174,"$37,968,963",2023-11-23,Walt Disney Studios Motion Pictures,11,4
+194,Close,"$1,100,113",233,"$1,100,113",2023-01-27,A24,1,1
+195,Emily,"$1,097,067",579,"$1,097,067",2023-02-17,Bleecker Street Media,2,1
+196,Knights of the Zodiac,"$1,090,155",588,"$1,090,155",2023-05-12,-,5,2
+197,Broker,"$1,001,892",271,"$1,046,899",2023-12-23,Neon,12,4
+198,Showing Up,"$972,074",115,"$754,483",2023-04-07,A24,4,2
+199,Inside,"$918,415",357,"$918,415",2023-03-17,Focus Features,3,1
+200,The Roundup: No Way Out,"$909,411",41,"$909,411",2023-06-02,Capelight Pictures,6,2

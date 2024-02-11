@@ -7,3 +7,6 @@ dependencies:
     - numpy
     - pandas
     - matplotlib
+    - python-dotenv
+    - requests
+    - tqdm

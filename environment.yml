@@ -10,3 +10,5 @@ dependencies:
     - python-dotenv
     - requests
     - tqdm
+    - networkx[default]
+    - geopy 

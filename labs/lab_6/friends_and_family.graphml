@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="role" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Elliott">
+  <data key="d0">child</data>
+</node>
+<node id="Kevin">
+  <data key="d0">adult</data>
+</node>
+<node id="Donna">
+  <data key="d0">adult</data>
+</node>
+<node id="Sarah">
+  <data key="d0">child</data>
+</node>
+<node id="Dave">
+  <data key="d0">partner</data>
+</node>
+<node id="Josh">
+  <data key="d0">friend</data>
+</node>
+<node id="Dylan">
+  <data key="d0">friend</data>
+</node>
+<node id="Zak">
+  <data key="d0">friend</data>
+</node>
+<node id="Christian">
+  <data key="d0">friend</data>
+</node>
+<node id="Alex">
+  <data key="d0">friend</data>
+</node>
+<node id="Sarah F.">
+  <data key="d0">partner</data>
+</node>
+<edge source="Elliott" target="Kevin"/>
+<edge source="Elliott" target="Donna"/>
+<edge source="Elliott" target="Josh"/>
+<edge source="Elliott" target="Dylan"/>
+<edge source="Elliott" target="Zak"/>
+<edge source="Elliott" target="Christian"/>
+<edge source="Elliott" target="Alex"/>
+<edge source="Elliott" target="Sarah"/>
+<edge source="Elliott" target="Sarah F."/>
+<edge source="Kevin" target="Sarah"/>
+<edge source="Kevin" target="Donna"/>
+<edge source="Donna" target="Sarah"/>
+<edge source="Sarah" target="Dave"/>
+</graph></graphml>

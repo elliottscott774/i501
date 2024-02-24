@@ -12,3 +12,6 @@ dependencies:
     - tqdm
     - networkx[default]
     - geopy 
+    - folium
+    - plotly==5.19.0
+    - "jupyterlab>=3" "ipywidgets>=7.6"
